@@ -21,3 +21,7 @@ __pycache__/
 .coverage.*
 coverage.xml
 *.cover
+
+.vscode
+keras_retinanet/utils/compute_overlap.cpython-37m-darwin.so
+keras_retinanet/utils/compute_overlap.c
